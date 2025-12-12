@@ -1,0 +1,23 @@
+[
+  {
+    "id": "w",
+    "name": "asd",
+    "type": "сенсор",
+    "status": "online",
+    "connection_info": "asdsad"
+  },
+  {
+    "id": "123",
+    "name": "123",
+    "type": "сенсор",
+    "status": "online",
+    "connection_info": "123"
+  },
+  {
+    "id": "413sdsd",
+    "name": "sfsdfssd",
+    "type": "сенсор",
+    "status": "online",
+    "connection_info": "fsdfsd"
+  }
+]

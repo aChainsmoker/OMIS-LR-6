@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "full_name": "Администратор"
+  },
+  {
+    "username": "user1",
+    "password": "user123",
+    "role": "user",
+    "full_name": "Обычный пользователь"
+  },
+  {
+    "username": "specialist",
+    "password": "spec123",
+    "role": "specialist",
+    "full_name": "Специалист"
+  }
+]
