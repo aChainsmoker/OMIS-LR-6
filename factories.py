@@ -9,7 +9,7 @@ from controllers import (
     ResponseController, AuthController, DeviceController
 )
 from patterns import MachineLearningStrategy
-from speech_recognition import SpeechRecognitionController
+from speech_recognition_module import SpeechRecognitionController
 
 class ControllerFactory:
     @staticmethod
