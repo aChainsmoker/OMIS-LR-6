@@ -1,4 +1,3 @@
-# controllers.py - Контроллеры
 from abc import ABC, abstractmethod
 from typing import List, Optional, Any, Dict
 from datetime import datetime

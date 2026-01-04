@@ -1,4 +1,3 @@
-# models.py - Модели данных и репозитории
 from abc import ABC, abstractmethod
 from typing import List, Optional, Any
 from dataclasses import dataclass, asdict

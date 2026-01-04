@@ -1,4 +1,3 @@
-# speech_recognition.py - Распознавание речи
 import threading
 import queue
 import time

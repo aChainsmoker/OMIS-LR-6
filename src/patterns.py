@@ -1,9 +1,6 @@
-# patterns.py - Паттерны проектирования (Стратегия, Команда)
 from abc import ABC, abstractmethod
 from typing import List, Any
 from models import Analysis, Decision
-
-# ====================== ПАТТЕРН СТРАТЕГИЯ ======================
 
 class IAnalysisStrategy(ABC):
     @abstractmethod
@@ -19,8 +16,6 @@ class StatisticalAnalysisStrategy(IAnalysisStrategy):
     def analyze_data(self, data: List[Any]) -> Analysis:
         # Реализация статистического анализа
         return Analysis(id="stat_1", result="Statistical Analysis Result", confidence=0.88)
-
-# ====================== ПАТТЕРН КОМАНДА ======================
 
 class ICommand(ABC):
     @abstractmethod

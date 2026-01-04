@@ -1,4 +1,3 @@
-# factories.py - Фабрики для создания контроллеров и представлений
 from typing import Dict
 from models import (
     SoundRepository, SensorDataRepository, RequestRepository,
